@@ -7,3 +7,4 @@ This is an app that allows for quotes to be entered by visitors. The quotes get 
 
 ![splurty shot](https://philipcox.netlify.app/splurty.png)
 
+
