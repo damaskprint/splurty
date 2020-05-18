@@ -1,24 +1,9 @@
-# README
+Splurty
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+This is an app that allows for quotes to be entered by visitors. The quotes get saved to a database, and then appear at random on the homepage for others to read. It was built using a Ruby on Rails framework, with a PostgreSQL database. Bootstrap was applied to add definition to the styling that came with HTML5 and CSS3.
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+![splurty shot](https://philipcox.netlify.app/splurty.png)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
